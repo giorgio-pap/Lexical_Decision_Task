@@ -8,7 +8,6 @@ The experiment:
 	 - participants are presented with one word/non-word in each trial rather than two words/nonwords
 	 - participants are asked to judge whether the presented stimulus is a word or non-word rather than press yes or no (in the original Meyer & Schvaneveldt (1971) experiment participants were asked if both of the stimuli presented were words or not)
 	 - this experiment only uses high frequency words and their equivalent non-words
-	 - words are between 3 - 10 letters long - there are 5 words of each letter length between 3 - 10 
 
 
 To change the number of trials -> add/remove more trials in the excel file "experimental_trials"
